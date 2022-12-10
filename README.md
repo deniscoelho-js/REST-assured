@@ -3,7 +3,7 @@
 
 ## Projeto
 
-Projeto de automação web com validação de carrinho de compras.
+Projeto de automação de API com REST-Assured
 
 ## Funcionalidades
 
@@ -24,6 +24,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 Clone o repositório
 
 ```bash
-git clone https://github.com/deniscoelho-js/automacao.git
+git clone https://github.com/deniscoelho-js/REST-assured.git
 
 ```
