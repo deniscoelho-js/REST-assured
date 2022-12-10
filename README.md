@@ -26,6 +26,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JUnit
 - Maven
 - Groove
+- API REST
 
 ## Clonar repositório
 
